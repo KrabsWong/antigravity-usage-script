@@ -33,6 +33,9 @@ gpt-4o                                12%        2025-02-15 00:00     Low
 o1-preview                            0%         2025-02-15 00:00     Exhausted
 ```
 
+<img width="727" height="336" alt="image" src="https://github.com/user-attachments/assets/f8ce0dfb-0c9c-4374-a1f3-f5819260138e" />
+
+
 ## How It Works
 
 1. Detects the running Antigravity process
