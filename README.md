@@ -1,6 +1,6 @@
 # Antigravity Usage Script
 
-A shell script to fetch and display usage statistics for the Antigravity AI coding assistant.
+A shell script to fetch and display usage statistics for the Antigravity AI coding assistant. Powered by [OpenCode](https://github.com/anomalyco/opencode) + Pony Alpha
 
 ## Features
 
